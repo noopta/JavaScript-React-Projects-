@@ -9,21 +9,6 @@
 - [x]  ~~Animated API~~  
 - [x]  ~~Navigator (react-native-router-flux)~~
 
-## Install at local
-Open Terminal, then type command:  
-> git clone https://github.com/dwicao/react-native-login-screen.git
-
-Go to project folder :
-> cd react-native-login-screen
-
-Type following command :  
-> npm install  
-
-You must have ANDROID_HOME environtment variable, to check if you already have, type in your terminal :  
-> echo $ANDROID_HOME  
-
-If blank, you can read at [HERE](https://goo.gl/XSBmwE)  
-
 Make sure you have already installed React Native globally by running this command :  
 > sudo npm install -g react-native-cli
 
