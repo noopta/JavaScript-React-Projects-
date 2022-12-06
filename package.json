@@ -25,7 +25,7 @@
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "15.4.1",
-    "react-native": "0.39.2",
+    "react-native": "0.70.6",
     "react-native-router-flux": "^3.37.0"
   },
   "devDependencies": {
